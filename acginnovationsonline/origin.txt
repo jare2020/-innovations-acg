@@ -1,0 +1,684 @@
+Uri: http://lcmetalbuildings.com/
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\index.htm
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/images/slider/1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/slider/2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/slider/3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\slider\3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/font/roboto-bold-webfont.woff2
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\font\roboto-bold-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://lcmetalbuildings.com/font/roboto-bold-webfont.woff
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\font\roboto-bold-webfont.woff
+Content Type: font/woff
+
+Uri: http://lcmetalbuildings.com/font/roboto-light-webfont.woff2
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\font\roboto-light-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://lcmetalbuildings.com/font/roboto-light-webfont.woff
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\font\roboto-light-webfont.woff
+Content Type: font/woff
+
+Uri: http://lcmetalbuildings.com/images/elements/123.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\123.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/bg3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\bg3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/bg1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\bg1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/bg-2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\bg-2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/banner-landing.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\banner-landing.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/steal.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\steal.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/icon.png
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\icon.png
+Content Type: image/png
+
+Uri: http://lcmetalbuildings.com/images/elements/1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/vendor/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lcmetalbuildings.com/vendor/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://lcmetalbuildings.com/vendor/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://lcmetalbuildings.com/vendor/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://lcmetalbuildings.com/vendor/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://lcmetalbuildings.com/vendor/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://lcmetalbuildings.com/images/elements/hr1.png
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\hr1.png
+Content Type: image/png
+
+Uri: http://lcmetalbuildings.com/images/favicon.png
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\favicon.png
+Content Type: image/png
+
+Uri: http://lcmetalbuildings.com/index.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\index.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/about.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\about.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/metal-roofs.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\metal-roofs.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/airplane-hangars.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\airplane-hangars.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/steel-frames.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\steel-frames.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/carports.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\carports.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/warehouses-and-shop.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\warehouses-and-shop.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/storage-buildings.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\storage-buildings.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/metal-fence.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\metal-fence.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/portfolio.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\portfolio.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/contact.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\contact.html
+Content Type: text/html
+
+Uri: http://lcmetalbuildings.com/images/portfolio/1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/4.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\4.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/5.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\5.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/6.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\6.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/logo.gif
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\logo.gif
+Content Type: image/gif
+
+Uri: http://lcmetalbuildings.com/images/services/s1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\services\s1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/services/s2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\services\s2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/services/s3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\services\s3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/services/s4.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\services\s4.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/services/s5.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\services\s5.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/services/s6.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\services\s6.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/img1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\img1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/elements/facebook-icon.png
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\facebook-icon.png
+Content Type: image/png
+
+Uri: http://lcmetalbuildings.com/images/elements/twitter-icon.png
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\twitter-icon.png
+Content Type: image/png
+
+Uri: http://lcmetalbuildings.com/images/elements/link-icon.png
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\link-icon.png
+Content Type: image/png
+
+Uri: http://lcmetalbuildings.com/images/elements/instagram-icon.png
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\instagram-icon.png
+Content Type: image/png
+
+Uri: http://lcmetalbuildings.com/vendor/jquery/jquery.min.js
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://lcmetalbuildings.com/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: http://lcmetalbuildings.com/vendor/jquery-easing/jquery.easing.min.js
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\jquery-easing\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: http://lcmetalbuildings.com/vendor/scrollreveal/scrollreveal.min.js
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\scrollreveal\scrollreveal.min.js
+Content Type: application/javascript
+
+Uri: http://lcmetalbuildings.com/vendor/magnific-popup/jquery.magnific-popup.min.js
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\vendor\magnific-popup\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://lcmetalbuildings.com/js/creative.min.js
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\js\creative.min.js
+Content Type: application/javascript
+
+Uri: http://lcmetalbuildings.com/images/elements/banner-top.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\elements\banner-top.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/4.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\4.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/5.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\5.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/6.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\6.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/7.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\7.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/8.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\8.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/9.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\9.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/10.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\10.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/11.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\11.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/12.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\12.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/13.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\13.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/14.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\14.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/15.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\15.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/16.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\16.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/17.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\17.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/18.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\18.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/19.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\19.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/20.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\20.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/21.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\21.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/22.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\22.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/23.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\23.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/logo.png
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\logo.png
+Content Type: image/png
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/4.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\4.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/5.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\5.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/6.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\6.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/7.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\7.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/4.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\4.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/5.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\5.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/6.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\6.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/1.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\1.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/2.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\2.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/3.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\3.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/4.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\4.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/5.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\5.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/6.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\6.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/services/s7.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\services\s7.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/8.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\8.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/9.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\9.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/10.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\10.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/11.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\11.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/12.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\12.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/13.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\13.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/14.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\14.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/airplane-hangars/15.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\airplane-hangars\15.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/7.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\7.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/8.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\8.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/9.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\9.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/10.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\10.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/11.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\11.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/12.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\12.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/13.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\13.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/14.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\14.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/15.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\15.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/16.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\16.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/17.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\17.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/18.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\18.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/19.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\19.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/20.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\20.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/21.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\21.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/22.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\22.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/23.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\23.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/carpots/24.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\carpots\24.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/7.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\7.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/8.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\8.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/9.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\9.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/10.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\10.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/11.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\11.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/12.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\12.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/estorage-buildings/13.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\estorage-buildings\13.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/24.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\24.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/25.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\25.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/26.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\26.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/27.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\27.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/28.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\28.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/29.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\29.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/30.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\30.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/31.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\31.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/32.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\32.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/33.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\33.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/34.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\34.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/35.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\35.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/36.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\36.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/37.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\37.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/38.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\38.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/39.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\39.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/40.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\40.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/41.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\41.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/42.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\42.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/43.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\43.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/44.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\44.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/45.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\45.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/46.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\46.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/47.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\47.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/48.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\48.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/49.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\49.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/50.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\50.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/51.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\51.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/52.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\52.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/53.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\53.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/images/portfolio/metal-roof/54.jpg
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\images\portfolio\metal-roof\54.jpg
+Content Type: image/jpeg
+
+Uri: http://lcmetalbuildings.com/captcha.php
+File Name: C:\Users\Marginy\Documents\Sitio descargado para editar\lcmetalbuildings.com\captcha.png
+Content Type: image/png
+
